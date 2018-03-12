@@ -27,7 +27,7 @@
     "babbybel": "^1.0.0",
     "commander": "^2.9.0",
     "mz": "^2.6.0",
-    "request": "^2.81.0",
+    "request": "^2.85.0",
     "request-promise": "^4.2.0",
     "standard": "^10.0.0"
   },
